@@ -1,6 +1,6 @@
 # dream-viewer
 
-Attempted using electroencephalogram (EEG) to decode visual dream content by leveraging an encoding model which generates EEG signals from deep neural network (DNN) feature maps of visual images. The encoding model is trained on THINGS2 EEG dataset and tested on both THINGS1 waking EEG dataset and Zhang_Wamsley dream EEG dataset. The project pipeline integrates the code from THINGS2 and derives the remaining analyses of this project from it. [Poster](https://qrsyu.github.io/dict/files/S.Yu_cns_poster.pdf)
+Attempted using electroencephalogram (EEG) to decode visual dream content by leveraging an encoding model which generates EEG signals from deep neural network (DNN) feature maps of visual images. The encoding model is trained on THINGS2 EEG dataset and tested on both THINGS1 waking EEG dataset and Zhang_Wamsley dream EEG dataset. The project pipeline integrates the code from THINGS2 and derives the remaining analyses of this project from it. [[Poster]](https://qrsyu.github.io/dict/files/S.Yu_cns_poster.pdf)
 
 ## Datasets
 
